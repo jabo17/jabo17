@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jannick
-- 👀 I’m interested in Algorithm Engineering
-- 🌱 I’m currently working on (dynamic) graph algorithms.
+- 👀 I’m interested in Algorithm Engineering.
+- 🌱 I’m currently working on (dynamic) graph algorithms (for distribtued-memory machines).
 - 📫 You can reach out to me by writing me an e-mail at jannick.borowitz@gmail.com
 
 <!---
